@@ -1,4 +1,4 @@
-On Febuary 10, 2023, the Wizarding World expanded! There had been data bases for older characters, but none for these new characters.  This project changes thiiat. It combines the characters that fans are familiar with, and integrates these new character facts. It explores how these new charaters contribute to the numbers of  I gender, houses, widardry, ancestry, eye color, and year of birth. 
+On Febuary 10, 2023, the Wizarding World expanded! There had been data bases for older characters, but none for these new characters.  This project changes that. It combines the characters that fans are familiar with, and integrates these new character facts. It explores how these new charaters contribute to the numbers of gender, houses, widardry, ancestry, eye color, and year of birth. 
 
 Feature one was to  "Read TWO data files (JSON, CSV, Excel, etc.). For the first data frame, I pulled in an API that listed all characters from the Harry Potter franchise. For the second part of fearture one, "Read TWO data files (JSON, CSV, Excel, etc.)", I created an excel file of the data for characters from the video game "Hogwarts Legacy".
 
@@ -15,8 +15,6 @@ Relevant packages that need to be installed to run the project:
 %pip install pandas
 
 %pip install matplotlib
-
-%pip install openpyxl
 
 %pip install seaborn
 
